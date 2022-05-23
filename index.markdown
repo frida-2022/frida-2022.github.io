@@ -7,7 +7,7 @@ layout: home
 
 # The 9th Workshop on Formal Reasoning in Distributed Algorithms
 
-Dates: August 11th 2022
+Date: August 11th 2022
 
 The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/workshops).
 
