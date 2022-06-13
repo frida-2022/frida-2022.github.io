@@ -11,7 +11,7 @@ Date: August 11th 2022
 
 The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/workshops).
 
-*Early registration* is possible until June 20: https://www.floc2022.org/registration
+*Early registration* is possible until June 20: [https://www.floc2022.org/registration](https://www.floc2022.org/registration)
 
 ## News
 
