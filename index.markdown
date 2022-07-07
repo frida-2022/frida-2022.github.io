@@ -11,10 +11,11 @@ Date: August 11th 2022
 
 The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/workshops).
 
-*Early registration* is possible until June 20: [https://www.floc2022.org/registration](https://www.floc2022.org/registration)
+*Regular registration* is possible until July 20: [https://www.floc2022.org/registration](https://www.floc2022.org/registration)
 
 ## News
 
+* July 7: added more speakers
 * June 13th: added first two speakers and registration link
 * May 23rd: website created!
 
@@ -23,6 +24,9 @@ The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/worksh
 Confirmed speakers:
 * Hagit Attiya, Technion
 * Yoram Moses, Technion
+* Burcu Özkan, TU Delft
+* Constantin Enea, Ecole Polytechnique, LIX
+* Ilina Stoilkovska, Informal Systems
 * more to come soon!
 
 ## Summary of the workshop
