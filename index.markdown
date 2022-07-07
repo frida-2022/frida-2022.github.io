@@ -26,7 +26,8 @@ Confirmed speakers:
 * Yoram Moses, Technion
 * Burcu Özkan, TU Delft
 * Constantin Enea, Ecole Polytechnique, LIX
-* Ilina Stoilkovska, Informal Systems
+* Ilina Stoilkovska, AWS
+* Ori Lahav, Tel Aviv University
 * more to come soon!
 
 ## Summary of the workshop
