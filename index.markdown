@@ -39,7 +39,22 @@ Tentative program:
 * 9:45-10:30: Yoram Moses, Technion
 * --Coffee Break--
 * 11:00-11:45: Constantin Enea, Ecole Polytechnique, LIX
+    <details>
+    <summary>Quorum Tree Abstractions of Consensus Protocols (click to expand the abstract)</summary>
+      <br>
+      <p>
+        Distributed algorithms solving agreement problems like consensus or state machine replication are essential components of modern fault-tolerant distributed services. They are also notoriously hard to understand and reason about. Their complexity stems from the different assumptions on the environment they operate with, i.e., process or network link failures, Byzantine failures etc. In this talk, I will describe a novel abstract representation of the dynamics of such protocols which focuses on quorums of responses (votes) to a request (proposal) that form during a run of the protocol. We show that focusing on such quorums, a run of a protocol can be viewed as working over a tree structure where different branches represent different possible outcomes of the protocol, the goal being to stabilize on the choice of a fixed branch. This abstraction resembles the description of recent protocols used in Blockchain infrastructures, e.g., the protocol supporting Bitcoin or Hotstuff. We show that this abstraction supports reasoning about the safety of various algorithms, e.g., Paxos, PBFT, Raft, and HotStuff, in a uniform way. In general, it provides a novel induction based argument for proving that such protocols are safe. This is joint work with Berk Cirisci and Suha Orhun Mutluergil. 
+      </p>
+    </details>
 * 11:45-12:30: Ori Lahav, Tel Aviv University
+    <details>
+    <summary>What's Decidable about Causally Consistent Shared Memory? (click to expand the abstract)</summary>
+      <br>
+      <p>
+        While causal consistency is one of the most fundamental consistency models weaker than sequential consistency, the decidability of safety verification for (finite-state) concurrent programs running under causally consistent shared-memories is still unclear. We establish the decidability of this problem for two standard and well-studied variants of causal consistency. To do so, for each of the variants, we develop an equivalent "lossy" operational semantics, and show that it constitutes a well-structured transition system, which enables decidable verification. The two novel semantics are based on similar key observations, which, we believe, may also be of independent use in the investigation of weakly consistent shared memory models and their verification. Interestingly, our results are in contrast to the undecidability of this problem under the Release/Acquire fragment of the C/C++11 memory model, which forms another variant of a causally consistent memory that, in terms of allowed outcomes, lies strictly between the two models we study. Nevertheless, all these variants coincide for write/write-race-free programs, which implies the decidability of verification for such programs under Release/Acquire.
+(Joint work with Udi Boker, partly presented at PLDI'20)
+      </p>
+    </details>
 * --Lunch Break--
 * 14:00-14:45: Bernhard Kragl, AWS
 * 14:45-15:30: Ilina Stoilkovska, Amazon
