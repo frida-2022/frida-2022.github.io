@@ -15,20 +15,34 @@ The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/worksh
 
 ## News
 
+* July 21: added tentative program
 * July 7: added more speakers
 * June 13th: added first two speakers and registration link
 * May 23rd: website created!
 
 ## Program
 
-Confirmed speakers:
-* Hagit Attiya, Technion
-* Yoram Moses, Technion
-* Burcu Özkan, TU Delft
-* Constantin Enea, Ecole Polytechnique, LIX
-* Ilina Stoilkovska, AWS
-* Ori Lahav, Tel Aviv University
-* more to come soon!
+Tentative program:
+9:00-9:45: Hagit Attiya, Technion
+<details>
+    <summary>Preserving Hyperproperties when Using Concurrent Objects (click to expand the abstract)</summary>
+      <br>
+      <p>
+      Linearizability, a consistency condition for concurrent objects, is known to preserve trace properties.
+This suffices for modular usage of concurrent objects in applications, deriving their safety properties from the abstract object they implement.
+However, other desirable properties, like average complexity and information leakage, are not trace properties.
+These *hyperproperties* are not preserved by linearizable concurrent objects, especially when randomization is used.
+This talk will discuss formal ways to specify concurrent objects that preserve hyperproperties and their relation with verification methods like forward / backward simulation.
+We will show that certain concurrent objects cannot satisfy such specifications, and describe ways to mitigate these limitations. 
+      </p>
+    </details>
+9:45-10:30: Yoram Moses, Technion
+--Coffee Break--
+11:00-11:45: Constantin Enea
+11:45-12:30: Ori Lahav
+--Lunch Break--
+14:00-14:45: Bernhard Kragl
+14:45-15:30: Ilina Stoilkovska
 
 ## Summary of the workshop
 
