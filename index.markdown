@@ -43,6 +43,13 @@ Tentative program:
 * --Lunch Break--
 * 14:00-14:45: Bernhard Kragl, AWS
 * 14:45-15:30: Ilina Stoilkovska, Amazon
+    <details>
+    <summary>Eliminating Message Counters in Threshold Automata (click to expand the abstract)</summary>
+      <br>
+      <p>
+        Threshold automata were introduced to give a formal semantics to distributed algorithms in a way that supports automated verification. While transitions in threshold automata are guarded by conditions over the number of globally sent messages, conditions in the pseudocode descriptions of distributed algorithms are usually formulated over the number of locally received messages. In this talk, we present an automated method to close the gap between these two representations. We propose threshold automata with guards over the number of received messages and present abstractions into guards over the number of sent messages, by eliminating the receive message counters. Our approach allows us for the first time to fully automatically verify models of both synchronous, asynchronous, and randomized distributed algorithms that are in one-to-one correspondence with their pseudocode. 
+      </p>
+    </details>
 
 ## Summary of the workshop
 
