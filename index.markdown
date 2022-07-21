@@ -11,7 +11,7 @@ Date: August 11th 2022
 
 The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/workshops).
 
-*Regular registration* is possible until July 20: [https://www.floc2022.org/registration](https://www.floc2022.org/registration)
+*Walk-in registration* is still possible: [https://www.floc2022.org/registration](https://www.floc2022.org/registration)
 
 ## News
 
@@ -23,7 +23,7 @@ The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/worksh
 ## Program
 
 Tentative program:
-9:00-9:45: Hagit Attiya, Technion
+* 9:00-9:45: Hagit Attiya, Technion
 <details>
     <summary>Preserving Hyperproperties when Using Concurrent Objects (click to expand the abstract)</summary>
       <br>
@@ -36,13 +36,13 @@ This talk will discuss formal ways to specify concurrent objects that preserve h
 We will show that certain concurrent objects cannot satisfy such specifications, and describe ways to mitigate these limitations. 
       </p>
     </details>
-9:45-10:30: Yoram Moses, Technion
---Coffee Break--
-11:00-11:45: Constantin Enea
-11:45-12:30: Ori Lahav
---Lunch Break--
-14:00-14:45: Bernhard Kragl
-14:45-15:30: Ilina Stoilkovska
+* 9:45-10:30: Yoram Moses, Technion
+* --Coffee Break--
+* 11:00-11:45: Constantin Enea, Ecole Polytechnique, LIX
+* 11:45-12:30: Ori Lahav, Tel Aviv University
+* --Lunch Break--
+* 14:00-14:45: Bernhard Kragl, AWS
+* 14:45-15:30: Ilina Stoilkovska, Amazon
 
 ## Summary of the workshop
 
