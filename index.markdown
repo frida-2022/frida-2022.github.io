@@ -15,6 +15,7 @@ The workshop is organized as part of [FLoC 2022](https://www.floc2022.org/worksh
 
 ## News
 
+* July 29: titles and abstracts are complete!
 * July 21: added tentative program
 * July 7: added more speakers
 * June 13th: added first two speakers and registration link
@@ -37,6 +38,13 @@ Tentative program:
       </p>
     </details>
 * 9:45-10:30: Yoram Moses, Technion
+    <details>
+    <summary>On Direct and Indirect Information in Distributed Protocols (click to expand the abstract)</summary>
+      <br>
+      <p>
+        I will discuss the role and uses of direct and indirect information in distributed protocols. In particular, I will describe a protocol based on indirect information whose formal verification is offered as an interesting challenge. 
+      </p>
+    </details>
 * --Coffee Break--
 * 11:00-11:45: Constantin Enea, Ecole Polytechnique, LIX
     <details>
@@ -57,6 +65,12 @@ Tentative program:
     </details>
 * --Lunch Break--
 * 14:00-14:45: Bernhard Kragl, AWS
+    <details>
+    <summary>Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 (click to expand the abstract)</summary>
+      <br>
+      <p>
+        This talk reports our experience applying lightweight formal methods to validate the correctness of ShardStore, a new key-value storage node implementation for the Amazon S3 cloud object storage service. By "lightweight formal methods" we mean a pragmatic approach to verifying the correctness of a production storage node that is under ongoing feature development by a full-time engineering team. We do not aim to achieve full formal verification, but instead emphasize automation, usability, and the ability to continually ensure correctness as both software and its specification evolve over time. Our approach decomposes correctness into independent properties, each checked by the most appropriate tool, and develops executable reference models as specifications to be checked against the implementation. Our work has prevented 16 issues from reaching production, including subtle crash consistency and concurrency problems, and has been extended by non-formal-methods experts to check new features and properties as ShardStore has evolved.
+      </p>
 * 14:45-15:30: Ilina Stoilkovska, Amazon
     <details>
     <summary>Eliminating Message Counters in Threshold Automata (click to expand the abstract)</summary>
